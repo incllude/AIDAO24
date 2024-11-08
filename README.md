@@ -12,7 +12,7 @@ Having received CM, we pull them into a **vector** and use them to determine the
 - We did **undersampling**: according to the Beijing dataset, in order to withstand **50/50** class balancing everywhere
 - Training: a **LogReg** with **L1** regularization is pre-trained, after which unimportant features are cut off (where weights <= 1e-5); then we reduce the dimension using **PCA** and train another **LogReg** on the final data set
 
-Authors: 
+### Authors: 
 
 - Arkhipov D.A.
 - Mirantsov E.S.
