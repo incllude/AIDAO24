@@ -13,6 +13,7 @@ Having received CM, we pull them into a **vector** and use them to determine the
 - Training: a **LogReg** with **L1** regularization is pre-trained, after which unimportant features are cut off (where weights <= 1e-5); then we reduce the dimension using **PCA** and train another **LogReg** on the final data set
 
 Authors: 
+
 - Arkhipov D.A.
 - Mirantsov E.S.
 - Kochyan L.V.
