@@ -1,4 +1,4 @@
-# First Place Solution of AIDAO24 Online Stage
+# 1st Place Solution of AIDAO24 First Stage
 
 ![](./images/table.png)
 
