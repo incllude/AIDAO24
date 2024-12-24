@@ -1,5 +1,7 @@
 # First Place Solution of AIDAO24 Online Stage
 
+![](./images/table.png)
+
 ## Task 1
 We divide the dataset into **two atlases** so that the features are from the same domain. We build a correspondence from **one atlas to another**, searching for the most similar samples in different atlases. The **similarity** of the samples is determined by the degree of correlation of the features.
 
